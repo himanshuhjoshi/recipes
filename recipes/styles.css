@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    text-align: left;
+}

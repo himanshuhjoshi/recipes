@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+    text-align: center;
+    font-family: monospace;
+}
+
+#heading {
+    font-size: 40px;
+    font-weight:9800;
+    color: hsla(39, 100%, 50%,0.9);
+}
+
+.recipes {
+    list-style: none;
+    font-size: 30px;
+}
+
+a {
+    color: #00fb58ae;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hsla(141, 100%, 49%, 0.533);
+}
